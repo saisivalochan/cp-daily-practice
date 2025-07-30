@@ -13,9 +13,13 @@ This repository contains my solutions to problems from:
 ## 📁 Folder Structure
 
 cp-daily-practice/
+
 ├── leetcode/ # Solutions from LeetCode
+
 ├── codeforces/ # Solutions from Codeforces
+
 ├── cses/ # Solutions from CSES Problem Set
+
 └── README.md
 
 ---
@@ -51,7 +55,7 @@ This is a personal repository, but you're welcome to:
 ## 🔗 Connect with Me
 
 - 📧 Email: lochan.maradana@gmail.com
-
+- 💼 linkedin : [linkedin](https://www.linkedin.com/in/sai-siva-lochan-maradana-245304336)
 ---
 
 ## 📝 License
