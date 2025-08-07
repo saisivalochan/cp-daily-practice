@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+    cin >> noskipws;
+    int m =0,c =0;
+    char a,p;
+    while( cin >>  a &&a != '\n' ){
+        if(a == 'A' || a == 'C' || a == 'G' || a == 'T'){
+            if(a == p || p == ' '){
+                c++;
+            }
+            else{
+                c = 1;
+            }
+            p = a;
+            if(c > m){
+                m = c;
+            }
+    }
+    }
+    cout << m << endl;
+}
